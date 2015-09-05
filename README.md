@@ -1,15 +1,12 @@
-### Welcome to GitHub Pages.
-This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. After your page is generated, you can check out the new `gh-pages` branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.
+### Welcome to Tang Labs, LLC
+Tang Labs, LLC is a technology consulting company founded by Wenzhong Tang (@dahutu), a seasoned software engineer and entrepreneur, in 2009.  We specialize in building scalable distributed systems using open source technologies.  If you are interested in working with us please contact Wenzhong using contact info below. 
 
-### Designer Templates
-We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.
+### Leadership
+#### Wenzhong Tang, Founder, Principal
+Wenzhong Tang is a seasoned software architect and entrepreneur with 20 years of experience building world-class software systems at Fortune 500 and start-up companies.  Currently Wenzhong is a Senior Software Engineering Lead at VoiceBox Technologies, Inc. (http://www.voicebox.com), a leading provider of conversational voice recognition and natural language understanding (NLU) for automotives and connected devices.  Before joining VoiceBox in 2013, Wenzhong worked for more than 10 years at Amazon.com (http://www.amazon.com) both as a software engineer and a manager, leading teams to launch high impact projects such as Amazon.cn, Amazon Cloud Drive, Docs app for Kindle Fire devices, and many more.  Before joining Amazon.com in 2002, Wenzhong was a lead engineer at Appliant.com, a pioneer of Internet performance management.  Early in Wenzhong's career he also worked at GTE, now part of Verizon, and Seagate Software, now part of SAP.  Outside work, Wenzhong likes to experiment with technologies and previously built several popular Android apps.
 
-### Creating pages manually
-If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
+For more information please visit Wenzhong's Linked in page at https://www.linkedin.com/in/wenzhong
 
-### Authors and Contributors
-You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
-
-### Support or Contact
-Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+Email us: tanglabsllc@gmail.com
 
